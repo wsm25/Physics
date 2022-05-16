@@ -7,5 +7,5 @@
 
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+F=\frac{kq_1q_2}{r^2}
 $$
